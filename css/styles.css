@@ -1,0 +1,177 @@
+/* ID SELECTORS */
+.section-title{
+  background-color: #ff4c68;
+
+}
+.first-page{
+  padding-top: 4%;
+}
+
+/* TAG SELECTORS */
+h1{
+  font-family: "Montserrat" sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  width: 70%;
+  color: #fff;
+  font-weight: bold;
+}
+.secion-2-div{
+  text-align: center;
+  width: 100%
+}
+
+
+
+
+/* CLASS SELECTORS */
+.container-fluid{
+  padding: 3% 15%;
+}
+.navbar{
+  padding: 0 0  4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: "Montserrat-light" sans-serif;
+  font-size: 1.2rem;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: bold;
+}
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+
+}
+.second-row{
+  padding: 7% 15%;
+}
+
+
+/* DOWNLOAD BUTTONS */
+.download-button{
+  padding: 0 1.2rem;
+  margin: 5% 3% 5% 0;
+}
+.section-2{
+  font-family: "Montserrat-bold" sans-serif;
+  font-weight: bold;
+
+}
+.p-section-2{
+    color: #8f8f8f;
+}
+
+.div-img{
+  color: #ef8172;
+  padding-bottom: 1.2rem;
+}
+.div-img:hover{
+  color: #ff4c68;
+}
+
+/* TESTIMONIAL SECTION */
+
+#testimonials{
+  text-align: center;
+  color: #fff;
+  padding: 7% 15%;
+  background-color: #ef8172;
+}
+.testimonials-img{
+  width: 20%;
+  border-radius: 100%;
+  margin: 1rem;
+}
+#press{
+  background-color:  #ef8172;
+  text-align: center;
+ padding-bottom: 3%;
+
+}
+#mastiff{
+  padding: 20px 0;
+}
+
+
+.press-img{
+  width: 15%;
+   margin: 20px 20px 50px;
+}
+
+/* CAROUSEL SECTION */
+#carouselExampleSlidesOnly{
+  margin: 7% 15%;
+}
+#cta{
+  text-align: center;
+  font-family: "Montserrat-bold" sans-serif;
+  font-weight: bold;
+  color: #fff;
+  line-height: 2;
+  margin-top: 5%;
+  padding-top: 2rem;
+  padding-bottom: 1.2rem;
+  background-color: #184d47;
+}
+
+#col-1{
+  text-align: center;
+  font-family: "Montserrat-bold" sans-serif;
+  font-weight: bold;
+    color: #ef8172;
+    position: relative;
+    left: 30%;
+    bottom: 40%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width:40%;
+}
+
+
+.card-deck{
+  margin: 7% 10%;
+  text-align: center;
+}
+.list{
+  text-align: center;
+}
+.div-header{
+  background-color: #f4f6ff;
+  font-family: "Montserrat-bold" sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+
+}
+.Plan{
+  text-align: center;
+  margin: 5%;
+  font-family: "Montserrat-bold" sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.header{
+  color: #8f8f8f;
+}
+
+
+/* FOOTER SECTION */
+.footer-section {
+  text-align: center;
+  font-family: "Montserrat-bold" sans-serif;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.clo1{
+
+}
